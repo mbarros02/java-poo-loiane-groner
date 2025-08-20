@@ -1,4 +1,4 @@
-package Aula27Exercicios;
+package com.loiane.cursojava.aula27exer;
 
 public class TesteConta {
     public static void main(String[] args) {

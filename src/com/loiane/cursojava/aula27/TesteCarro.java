@@ -1,4 +1,4 @@
-package Aula27;
+package com.loiane.cursojava.aula27;
 
 public class TesteCarro {
     public static void main(String[] args) {
