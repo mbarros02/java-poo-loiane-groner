@@ -1,4 +1,4 @@
-package com.loiane.cursojava.aula38;
+package com.loiane.cursojava.aula40;
 
 public class Aluno extends Pessoa {
     private String curso;
@@ -30,5 +30,11 @@ public class Aluno extends Pessoa {
 
     public boolean verificarAprovado() {
         return true;
+    }
+
+    @Override
+    public String obterEtiquetaEnderco() {
+        String s = "Endereço do aluno: " + this.getEndereco();
+        return s;
     }
 }

@@ -5,8 +5,8 @@ public class Aluno extends Pessoa {
     private double[] notas;
 
     public Aluno() {
+        super();
     }
-
 
     public String getCurso() {
         return curso;
@@ -30,5 +30,10 @@ public class Aluno extends Pessoa {
 
     public boolean verificarAprovado() {
         return true;
+    }
+
+    public void verificarAcesso() {
+        super.visibilidade = "Marcello";
+        this.visibilidade = "Marcello";
     }
 }

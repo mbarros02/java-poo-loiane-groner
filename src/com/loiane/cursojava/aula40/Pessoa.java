@@ -1,6 +1,6 @@
-package com.loiane.cursojava.aula38;
+package com.loiane.cursojava.aula40;
 
-public class Pessoa {
+public abstract class Pessoa {
     private String nome;
     private String endereco;
     private String telefone;
@@ -36,5 +36,9 @@ public class Pessoa {
 
     public void setCpf(String cpf) {
         this.cpf = cpf;
+    }
+
+    public String obterEtiquetaEnderco() {
+        return endereco;
     }
 }

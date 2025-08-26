@@ -1,4 +1,4 @@
-package com.loiane.cursojava.aula38;
+package com.loiane.cursojava.aula39;
 
 public class Professor{
     private double salario;

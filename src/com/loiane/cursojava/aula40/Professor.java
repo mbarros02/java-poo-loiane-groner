@@ -1,6 +1,6 @@
-package com.loiane.cursojava.aula38;
+package com.loiane.cursojava.aula40;
 
-public class Professor{
+public class Professor extends Pessoa{
     private double salario;
     private String nomeCurso;
 
@@ -25,5 +25,10 @@ public class Professor{
 
     public double calcularSalarioLiquido() {
         return 0;
+    }
+
+    public String obterEtiquetaEnderco() {
+        String s = "Endereço do aluno: " + this.getEndereco();
+        return s;
     }
 }

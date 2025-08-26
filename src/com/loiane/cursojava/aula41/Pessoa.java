@@ -1,4 +1,4 @@
-package com.loiane.cursojava.aula40;
+package com.loiane.cursojava.aula41;
 
 public class Pessoa {
     private String nome;

@@ -6,6 +6,11 @@ public class Pessoa {
     private String telefone;
     private String cpf;
 
+    String visibilidade;
+
+    public Pessoa() {
+    }
+
     public String getNome() {
         return nome;
     }

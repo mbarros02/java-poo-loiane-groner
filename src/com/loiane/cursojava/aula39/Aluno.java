@@ -1,4 +1,4 @@
-package com.loiane.cursojava.aula38;
+package com.loiane.cursojava.aula39;
 
 public class Aluno extends Pessoa {
     private String curso;
