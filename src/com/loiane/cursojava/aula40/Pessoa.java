@@ -1,6 +1,6 @@
 package com.loiane.cursojava.aula40;
 
-public abstract class Pessoa {
+public class Pessoa {
     private String nome;
     private String endereco;
     private String telefone;
