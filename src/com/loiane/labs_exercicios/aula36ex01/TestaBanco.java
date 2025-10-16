@@ -1,6 +1,4 @@
-package com.loiane.cursojava.aula36ex;
-
-import com.loiane.cursojava.aula36ex.ContaBancaria;
+package com.loiane.labs_exercicios.aula36ex01;
 
 public class TestaBanco {
     public static void main(String[] args) {

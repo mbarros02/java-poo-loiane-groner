@@ -1,4 +1,4 @@
-package com.loiane.cursojava.aula27exer;
+package com.loiane.labs_exercicios.aula27exer;
 
 public class TesteLampada {
     public static void main(String[] args) {
