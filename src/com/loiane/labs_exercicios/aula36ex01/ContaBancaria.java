@@ -1,4 +1,4 @@
-package com.loiane.cursojava.aula36ex;
+package com.loiane.labs_exercicios.aula36ex01;
 
 public class ContaBancaria {
 
